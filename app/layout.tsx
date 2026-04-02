@@ -61,7 +61,7 @@ export default function RootLayout({
           borderTop: '1px solid var(--border)',
           fontFamily: 'var(--font-stack-sans)',
         }}>
-          © {new Date().getFullYear()} Kripesh Panta. All rights reserved.
+          © {new Date().getFullYear()} Aaditya kumar All rights reserved.
         </footer>
       </body>
     </html>
