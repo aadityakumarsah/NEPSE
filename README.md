@@ -284,8 +284,8 @@ POST /api/analyze
 ### Installation
 
 ```bash
-git clone https://github.com/Mr-Kripesh/NEPSE-AI-Analyzer-.git
-cd NEPSE-AI-Analyzer-
+git clone https://github.com/aadityakumarsah/NEPSE
+cd NEPSE
 npm install
 ```
 
@@ -364,5 +364,5 @@ React 19's compiler can cause hydration mismatches when client-side state (local
 
 ## License
 
-© 2026 Kripesh Panta. All rights reserved.
+© 2026 Aaditya kumar sah. All rights reserved.
 # NEPSE
